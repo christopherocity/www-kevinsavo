@@ -1,0 +1,59 @@
+.sponge-text {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: lightseagreen;
+}
+
+.sponge-text2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: mediumseagreen;
+}
+
+.sponge-text3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: coral;
+}
+
+.sponge-text4 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: whitesmoke;
+}
+
+.container {
+  margin: auto;
+  width: 60%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+  z-index: 1;
+  background: #080707;
+  opacity: .9;
+}
+
+.body {
+  background: url("../assets/bikinibottom.png");
+  width: 100%;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.gif1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.gif2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.video {
+  width: 560px;
+  height: 315px;
+}
