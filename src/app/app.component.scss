@@ -54,6 +54,19 @@
   width: 30%;
 }
 .video {
-  width: 560px;
-  height: 315px;
+  width: 25em;
+  height: 15em;
+}
+@media only screen and (max-width: 679px) {
+  .video {
+    width: 15em;
+    height: 10em;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .video {
+    width: 10em;
+    height: 5em;
+  }
 }
